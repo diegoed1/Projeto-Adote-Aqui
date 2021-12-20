@@ -1,0 +1,36 @@
+.container{
+    background-color: rgba(6, 10, 59, 0.356);
+    display: inline;
+    width: auto;
+    justify-content: start;
+    color: black;
+    font-family: sans-serif;
+
+}
+
+.menu{
+ display: block;
+ width: auto;
+ background-color: rgb(19, 6, 56) ;
+ flex-flow:row wrap;
+ flex-grow: 1;
+ flex-shrink: 0;
+}
+
+
+.box1{
+ color: rgb(159, 185, 12);
+ flex-shrink: 2;
+}
+
+.box2{
+    background-color: blue;
+}
+
+.box3{
+    background-color: blueviolet;
+}
+
+.box4{
+    background-color: #1f1f35 ;
+}
